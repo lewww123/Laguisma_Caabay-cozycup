@@ -26,3 +26,28 @@ This image shows the contact section of the website
 ## About the Authors
 
 <img src="https://github.com/lewww123.png" width="150" style="border-radius:50%;" />
+
+**Name:** Lewin Rey Kurt Laguisma  
+**Email:** 202380024@psu.palawan.edu.ph 
+
+<a href="https://www.facebook.com/lwn.ei">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">
+</a>
+<a href="https://github.com/lewww123">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">
+</a>
+
+<br><br>
+
+<img src="https://github.com/Cliffordss.png" width="150" style="border-radius:50%;" />
+
+**Name:** Clifford R. Caabay  
+**Email:** 202380148@psu.palawan.edu.ph
+
+<a href="https://www.facebook.com/cliffords69">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">
+</a>
+<a href="https://github.com/Cliffordss">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">
+</a>
+
